@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Menu resto Maz EDAN</string>
+
+    <string-array name="data_nama">
+        <item>Sop Sapi bukan Tulang</item>
+        <item>Ayam Kebakaran</item>
+        <item>Ayam Mandi Kuah Sop</item>
+        <item>Ayam Mandi Minyak</item>
+        <item>Sate Kambing ya masa Sapi</item>
+        <item>Sate Sapi ya masa Kambing</item>
+        <item>Teh manis kalo dingin sikapnya dia</item>
+        <item>Nasi Putih, Biru Cat Sendiri</item>
+        <item>Air Putih Aqua bukan yang lain</item>
+        <item>Es Doger bikin ngeces</item>
+
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Sopnya Enak Banget HALAL kalo Haram ya coba toko lain </item>
+        <item>Ayam Bakr bikin kebakaran, tetangga sering marah soal asep</item>
+        <item>Ayamnya udah dipotong jadi jangan takut ya</item>
+        <item>Udah dipotong juga ya masa belom kasian Kalo Blom ya </item>
+        <item>ini Daging Kambing ya jangan minta campur Sapi,</item>
+        <item>Ini Sapi ya, kalo ayam ya nangkep sendiri</item>
+        <item>Ini udah manis, kok si dia malah dingin si ke kamu . sama aku aja deh</item>
+        <item>Nasinya putih anget, Kalo biru ya Nasi Khrisna</item>
+        <item>Gak di endors selain Aqua . Makasih</item>
+        <item>Bikin Ngeces ya Bukan NgeCAS !</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/sop_daging</item>
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/sop_ayam</item>
+        <item>@drawable/ayam_goreng</item>
+        <item>@drawable/sate_kambing</item>
+        <item>@drawable/sate_sapi</item>
+        <item>@drawable/tehmani</item>
+        <item>@drawable/nasi_putih</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/esdoger</item>
+    </integer-array>
+
+</resources>
